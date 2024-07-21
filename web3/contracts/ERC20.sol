@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8.24;
 
+//deployed contract address == 0x1455Fc5C891755A6b84211aedE4B202c19bB0A7C;
+
 contract ERC20{
 
     string public Name;
